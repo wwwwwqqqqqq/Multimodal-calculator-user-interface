@@ -1,5 +1,5 @@
 /**
- * @author Weiwei Qin & Jialan Zhong
+ * @author Weiwei Qin
  * Main function.
  */
 
