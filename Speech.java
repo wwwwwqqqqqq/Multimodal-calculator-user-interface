@@ -3,7 +3,7 @@ import parsii.eval.Parser;
 import parsii.tokenizer.ParseException;
 
 /**
- * @author Weiwei Qin & Jialan Zhong
+ * @author Weiwei Qin
  * Speech function.
  */
 
